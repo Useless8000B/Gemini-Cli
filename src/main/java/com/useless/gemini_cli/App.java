@@ -1,10 +1,10 @@
-package com.useless;
+package com.useless.gemini_cli;
 
 import com.google.genai.Client;
 import com.google.genai.types.GenerateContentResponse;
-import com.useless.ui.UI;
-import com.useless.utils.Colors;
-import com.useless.utils.Format;
+import com.useless.gemini_cli.ui.UI;
+import com.useless.gemini_cli.utils.Colors;
+import com.useless.gemini_cli.utils.Format;
 
 public class App {
     private static Client client = new Client();

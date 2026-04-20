@@ -1,4 +1,4 @@
-package com.useless.utils;
+package com.useless.gemini_cli.utils;
 
 public class Colors {
     public static final String Reset = "\u001B[0m";

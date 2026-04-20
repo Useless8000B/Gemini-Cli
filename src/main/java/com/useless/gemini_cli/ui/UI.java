@@ -1,8 +1,8 @@
-package com.useless.ui;
+package com.useless.gemini_cli.ui;
 
 import java.util.Scanner;
 
-import com.useless.utils.Colors;
+import com.useless.gemini_cli.utils.Colors;
 
 public class UI {
 	private static final Scanner input = new Scanner(System.in);
